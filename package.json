@@ -1,0 +1,8 @@
+{
+  "name": "imagejs-stego-worker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "image-js": "^0.35.4"
+  }
+}
